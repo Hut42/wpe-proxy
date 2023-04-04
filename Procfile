@@ -1,1 +1,1 @@
-web: heroku-php-nginx -C nginx.conf www/
+web: heroku-php-nginx -c nginx.conf www/
